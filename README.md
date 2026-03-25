@@ -17,5 +17,7 @@ Cadastro de protocolos
  Registro de diárias
  Definição e acompanhamento de prazos
  Monitoramento do andamento das atividades
-
+##  Tecnologias utilizadas
+C
+Java
 
