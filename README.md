@@ -19,6 +19,3 @@ Cadastro de protocolos
  Monitoramento do andamento das atividades
 
 
-
-##  Status do projeto
-Em desenvolvimento
